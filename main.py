@@ -12,7 +12,7 @@ class Login:
         self.root
 
         #Lgin Frame
-        Frame_login = Frame(self.root, bg="white")
+        Frame_login = Frame(self.root, bg="white")  
         Frame_login.place(x=330, y=150, width=580, height=400)
 
         #Title & subtitle
